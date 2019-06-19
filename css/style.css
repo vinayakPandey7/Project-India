@@ -1,0 +1,167 @@
+html {
+    background: palegreen;
+}
+
+
+body{
+    width: 100%;
+    height:100%;
+}
+#dropdownMenu2{
+    
+    padding: 6px 5px;
+    border-width: 0px;
+
+}
+#navbarTogglerDemo03 > form > input {
+    
+    padding: 6px 5px;
+    margin-left: 8px;
+
+}
+
+.navbar-brand{
+    background: url(../img/a.jpg) round no-repeat;
+    width: 75px;
+    height: 25px;
+    padding-top: (-50px);
+    margin-right: 0px;
+    padding: 0px 0px;
+    height: 39px;
+    width: 70px;
+}
+
+
+
+
+
+.navbar {
+    height: 50px;
+    
+}
+.cover {
+    background-size: cover;
+    background: url(../img/india1.jpg) no-repeat top center;
+    height: 100vh;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    font-family: 'Merienda One', cursive;
+    
+}
+
+.cover-caption p {
+    text-align: right;
+    margin-left: -21.875rem;
+    font-size: 2rem;
+    font-family: 'Great Vibes', cursive;
+    font-size: 2.5;
+}
+
+.arousel-item{
+    height: 500px;;
+}
+
+/*footer*/
+
+#footer-main {
+    background: rgb(39, 37, 50);
+     color: white;
+     font-size: 0.8rem;
+     padding: 2.5rem;    
+     text-align: left;
+     font-family: 'Cutive Mono', monospace;
+     list-style: none;
+     text-decoration: none;
+     
+     
+ }
+ 
+ #footer-main ul {
+     list-style: none;
+     text-decoration-color: wheat;
+     text-decoration-line: none;
+     padding-left: 0px;
+     
+ }
+ 
+ #footer-main > div > div > div.col-md-12.text-center {
+     top: 25px;
+ }
+ 
+ a {
+     color:rgba(168,113,206,1);
+ }
+ #footer-main > div > div > div:nth-child(1) > ul > li:nth-child(1) > a > i:hover {size: 50px;}
+ #footer-main > div > div > div:nth-child(1) > ul {font-size: medium}
+ #footer-main > div > div > div:nth-child(1) > ul > li:nth-child(2) > a > i{color: #5eec7e}
+ #footer-main > div > div > div:nth-child(1) > ul > li:nth-child(1) > a > i{color: #5aa2ef}
+ #footer-main > div > div > div:nth-child(1) > ul > li:nth-child(4) > a > i{color: #ff4f60}
+ #footer-main > div > div > div:nth-child(1) > ul > li:nth-child(5) > a > i{color: #d4e1ef}
+ #ffrm { margin: 5px 0px}
+.form-control{
+    background-color: rgba(168,113,206,0.3);
+    margin: 5px 0px;
+}
+ 
+#tourismcvr {
+    background: url(../img/tajj.jpg) no-repeat center center ;
+    background-size: cover;
+    margin-bottom: 7rem;
+    height: 92vh;
+    display: flex;
+}
+
+.table {
+    border: solid black;
+    
+}
+
+.btn {
+    color: black;
+}
+
+.historycvr {
+    background-size: cover;
+    background: url(../img/a.jpg) no-repeat center center ;
+}
+
+#strugle {
+    color: darkred;
+}
+
+#fighter{
+    margin: 8rem 0;
+}
+
+.dropdown-toggle {
+    background: transparent;
+    margin-top: .125rem;
+}
+
+
+
+.coverl {
+    background: url(../img/architecture.jpg) no-repeat center center;
+    background-size: cover;
+    height: 97.5vh;
+    
+
+    
+}
+
+.cover-captionl {
+    background: rgba(0, 0, 0, 0.4);
+   margin-top: 5.9375rem;
+   margin-left: 28.125rem;
+   margin-right: 28.125rem;
+   padding: 3.125 1.875rem;
+}
+
+.placetovisit {
+    margin-top: 6.25rem;
+    margin-bottom: 6.25rem;
+}
+
+
