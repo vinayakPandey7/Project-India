@@ -1,2 +1,5 @@
 # Project-India
-The project is my first project i have done while learning HTML, css and js.
+My first project to learn HTML,CSS and js. 
+Tried to show the proud of India.
+
+URL: https://vinayakpandey7.github.io/Project-India/
